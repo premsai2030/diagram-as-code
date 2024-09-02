@@ -7,7 +7,8 @@ Create a virtual environment
 Install packages
 
 > pip3 install -r requirements.txt
-> Depending on the Os, install `graphviz` module.
+
+Depending on the Os, install `graphviz` module.
 
 Run following command to generate image
 
